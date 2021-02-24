@@ -2,7 +2,7 @@
 
 I'm writing hybrid mobile app's in JS with Swift and Kotlin
 
-Also I'm wrote much soft in C# when I was a teenage boy (since 2013).
+Also I'm wrote much software in C# when I was a teenage boy (since 2013).
 
 📫 How to reach me: [https://t.me/bazuka5801](Telegram (bazuka5801))
 
