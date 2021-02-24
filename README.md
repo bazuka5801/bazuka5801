@@ -22,7 +22,7 @@ My Hobbies: 💃🏻🕺, 🚴‍♂️ and Dates 💖 (in looking for...)
   
 
 <a href="https://github.com/bazuka5801/bazuka5801">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bazuka5801&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bazuka5801&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" alt="GitHub Stats" />
 </a>
 <!--
 **bazuka5801/bazuka5801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
