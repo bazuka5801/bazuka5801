@@ -11,13 +11,13 @@ Company -> @bazumax
 
 My Hobbies: 💃🏻🕺, 🚴‍♂️ and Dates 💖 (in looking for...)
 
-⚡ Fun fact:
+#### ⚡ Fun fact:
   
-  🔧 I was expert in install Windows system for my girlfriends :)
-  
-  🥷 But for what it's worth, back in the day, I went through the same thing with my best friend - Mac OS.
-  
-  😅 ...I flush out one of harddrives 
+🔧 I was expert in install Windows system for my girlfriends :)
+
+🥷 But for what it's worth, back in the day, I went through the same thing with my best friend - Mac OS.
+
+😅 ...I flush out one of harddrives 
   
   
 
