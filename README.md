@@ -27,7 +27,7 @@ My Hobbies: 💃🏻🕺, 🚴‍♂️ and Dates 💖 (in looking for...)
 
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuka5801&bg_color=30,8F153F,202A2A&hide=javascript,html,C%23,python&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazuka5801&bg_color=30,2f2f2f,8F153F,202A2A&hide=javascript,html,C%23,python&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bazuka5801/bazuka5801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
