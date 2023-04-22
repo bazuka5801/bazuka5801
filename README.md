@@ -1,6 +1,6 @@
 # Max Bazuev 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/bazuka5801?label=Follow&style=social)
 
 📚 Hi there! I'm Max Bazuev, a seasoned hybrid mobile app consultant and developer on a mission to make life easier and more predictable for people around the world. I love sharing my professional experience through educational videos, and when I'm not busy building awesome apps, you'll likely find me exploring the great outdoors. 🌲
 
